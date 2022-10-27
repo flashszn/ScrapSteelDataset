@@ -14,4 +14,8 @@ scrapsteel
         ...
 
 ## Take a look
-!(https://github.com/flashszn/ScrapSteelDataset/blob/master/scrapsteel/train/000/000-12.jpg?raw=true)
+![1.jpg](https://github.com/flashszn/ScrapSteelDataset/blob/master/scrapsteel/train/000/000-12.jpg?raw=true)
+![2.jpg](https://github.com/flashszn/ScrapSteelDataset/blob/master/scrapsteel/train/002/002-11.jpg?raw=true)
+![3.jpg](https://github.com/flashszn/ScrapSteelDataset/blob/master/scrapsteel/train/003/003-11.jpg?raw=true)
+![4.jpg](https://github.com/flashszn/ScrapSteelDataset/blob/master/scrapsteel/train/004/003-12.jpg?raw=true)
+
